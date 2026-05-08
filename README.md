@@ -21,7 +21,7 @@ TensorFlow Cats vs Dogs dataset (~23k images)
 - Validation accuracy included in notebook
 
 ## Demo Video
-PASTE YOUR VIDEO LINK HERE
+(https://drive.google.com/file/d/1NL2D8Ee9o8p2L4nFIfKcg8hLyr8w2-vZ/view?usp=sharing)
 
 ## Notes
 This project demonstrates a full computer vision pipeline: preprocessing, training, evaluation, and inference.
